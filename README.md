@@ -1,6 +1,3 @@
-# Advanced-Programming
-all projects from the AP course.
-
 ## Nowrooz Projects
 Q1: Matrix Calculator <br>
 
