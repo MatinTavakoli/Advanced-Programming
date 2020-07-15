@@ -1,15 +1,15 @@
 # Advanced-Programming
 all projects from the AP course.
 
-# Nowrooz Projects
+## Nowrooz Projects
 Q1: Matrix Calculator <br>
 
 Q2: Battleship <br>
 
 Q3: Jungle Card Game <br>
 
-# Midterm Project
+## Midterm Project
 Java Download Manager(JDM)
 
-# Final 
+## Final 
 ProjectJTanks(A beautiful 2D game)
