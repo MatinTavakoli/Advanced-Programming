@@ -8,5 +8,5 @@ Q3: Jungle Card Game <br>
 ## Midterm Project
 Java Download Manager(JDM)
 
-## Final 
-ProjectJTanks(A beautiful 2D game)
+## Final Project
+JTanks(A beautiful 2D game)
