@@ -6,7 +6,7 @@ Q2: Battleship <br>
 Q3: Jungle Card Game <br>
 
 ## Midterm Project
-Java Download Manager(JDM)
+Java Download Manager (JDM)
 
 ## Final Project
-JTanks(A beautiful 2D game)
+JTanks (A beautiful 2D game)
